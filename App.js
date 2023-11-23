@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Gifting Idea - Innovation Hubba 2023</h1>
+        <p>Building the right idea.....</p>
       </header>
     </div>
   );
